@@ -5,6 +5,8 @@ function setup() {
 function draw() {
   background(255);
 
+  //this is what chat gpt gave me
+
   // Sushi rice (rectangle)
   fill(255, 239, 184);
   rect(150, 150, 200, 100);
