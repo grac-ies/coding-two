@@ -1,8 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>URL</key>
-	<string>https://github.com/grac-ies/coding-two/blob/main/sketchgpt.js</string>
-</dict>
-</plist>
+let canvasSize = 400;
+
+function setup() {
+  createCanvas(canvasSize, canvasSize);
+  background(255);
+}
+
+function draw() {
+  // Draw sushi roll
+  drawRice();
+  drawNori();
+  drawFish();
+}
+
+function drawRice() {
+  fill(255, 255, 204); // Rice color
+  noStroke();
+  ellipse(canvasSize / 2, canvasSize / 2, 150, 150); // Rice base
+}
+
+function drawNori() {
+  fill(0); // Nori color
+  noStroke();
+  rect(canvasSize / 2 - 75, canvasSize / 2 - 75, 150, 150); // Nori wrap
+}
+
+function drawFish() {
+  fill(255, 0, 0); // Fish color (assuming it's salmon)
+  noStroke();
+  ellipse(canvasSize / 2, canvasSize / 2, 120, 50); // Fish slice
+}
