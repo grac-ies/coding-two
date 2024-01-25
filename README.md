@@ -1,2 +1,2 @@
 # coding-two
-this was a fun assignment, I enjoyed taking a look at what chat GPT had to offer. I decided to add some shadows to show some dimention as well.     
+this was a fun assignment, I enjoyed taking a look at what chat GPT had to offer. I decided to add some shadows to show some dimention as well.I entered multiple types of food for chat GPT to create and each rendition had moving elements. The code was very basic, the shapes had seemingly no connection, almost deconstructed in a sense. I did take some inspiration from the organization because I feel as though my code has an easy time getting messy, especially when order matters.     
