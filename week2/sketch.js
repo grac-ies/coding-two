@@ -27,7 +27,7 @@ function draw() {
   fill(255, 255, 255);
   ellipse(250, 150, 210, 140);
   
-  //salmon
+  //salmon!
   fill(250, 128, 114);
   ellipse(250, 120, 200, 100)
   
