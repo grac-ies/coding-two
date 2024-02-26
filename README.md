@@ -1,3 +1,2 @@
 # coding-two
-week 4 was for sure harder without being in class. It took me a decent amount of time to execute everything. it's not pretty by any means just trying to understand the content rather than make it pretty (just for right now). I integrated some stuff to make it 
-a little more appealing like the changing colors within the text. im getting better at problem-solving which is good! 
+this canvas is starting to stress me out lol, its a lot to take in. Im catching on but not as quickly as I had hoped. but I got everything working!
